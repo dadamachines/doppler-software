@@ -1,0 +1,13 @@
+{
+  "name": "doppler-software",
+  "keywords": "dadamachines, doppler, fpga, ice40, samd51",
+  "description": "Standard software for dadamachines – doppler",
+  "include": "doppler-software",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/dadamachines/doppler-software.git"
+  },
+  "frameworks": "arduino",
+  "platforms": "*"
+}
